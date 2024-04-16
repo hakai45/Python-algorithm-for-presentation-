@@ -132,11 +132,15 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 1. Clone this repo.
 
    ```terminal
-   git clone https://github.com/AtsushiSakai/PythonRobotics.git
+   https://github.com/hakai45/Python-algorithm-for-presentation-.git
    ```
 
+   
+2.extarct zip
 
-2. Install the required libraries.
+
+
+3. Install the required libraries.
 
 - using conda :
 
@@ -151,9 +155,9 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
   ```
 
 
-3. Execute python script in each directory.
+4. Execute python script in each directory.
 
-4. Add star to this repo if you like it :smiley:. 
+5. Add star to this repo if you like it :smiley:. 
 
 # Localization
 
